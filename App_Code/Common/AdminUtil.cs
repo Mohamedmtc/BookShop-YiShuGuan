@@ -6,7 +6,8 @@ namespace common
     {
         public static Admin HasLogined()
         {
-            return null;
+            
+            return null;   
         }
     }
 }
